@@ -1,11 +1,12 @@
 # Overview
-
 Creation une app conçu selon l'architecture monolithique avec la stack technique : 
-    - javascript 
-    - expressJs
-    - moteur de template pug 
-    - base de donnée non relationnelle
-    - ODM mongoose 
+    
+  - javascript
+  - expressJs
+  - moteur de template pug 
+  - base de donnée non relationnelle
+  - ODM mongoose 
+
 
 
 # uzHappy
